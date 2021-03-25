@@ -1,13 +1,17 @@
 //Source pour la corélation entre accélérometre et gyroscope
 
-//https://www.youtube.com/watch?v=XCyRXMvVSCw&t
-//https://dronebotworkshop.com/mpu-6050-level/
-
+//Utilise seul acc pour trouver inclinaison mais probleme lors d'un mouvement
 //https://www.youtube.com/watch?v=USa3HFLnrlk&t
 //https://www.instructables.com/DIY-Digital-Spirit-Level/
 
+//Démontre comment utiliser
+//https://www.youtube.com/watch?v=XCyRXMvVSCw&t
+//https://dronebotworkshop.com/mpu-6050-level/
+
+//Démontre comment utiliser
 //https://www.youtube.com/watch?v=UxABxSADZ6U.
 
+//Théorique du pourquoi il utilise l'acc et le gyro ensemble !
 //https://www.posital.com/fr/produits/inclinometres/mems/MEMS-Technology.php
 
 
